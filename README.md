@@ -1,1 +1,1 @@
-# https-guidetoabetterpath.netlify.app-
+# https-guidetoabetterpath.netlify.app
